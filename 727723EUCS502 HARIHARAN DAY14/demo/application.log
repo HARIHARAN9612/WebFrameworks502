@@ -1,0 +1,13 @@
+2024-04-26T14:35:21.210+05:30  INFO 14192 --- [demo] [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.10 with PID 14192 (C:\Users\HP\OneDrive\Desktop\springboot portal\727723EUCS502 DAY 14\demo\target\classes started by HP in C:\Users\HP\OneDrive\Desktop\springboot portal\727723EUCS502 DAY 14\demo)
+2024-04-26T14:35:21.219+05:30 DEBUG 14192 --- [demo] [restartedMain] com.example.demo.DemoApplication         : Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-04-26T14:35:21.267+05:30  INFO 14192 --- [demo] [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2024-04-26T14:35:21.659+05:30  INFO 14192 --- [demo] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-26T14:35:21.668+05:30  INFO 14192 --- [demo] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-26T14:35:23.372+05:30  INFO 14192 --- [demo] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-04-26T14:35:23.420+05:30  INFO 14192 --- [demo] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 30 ms. Found 0 JPA repository interfaces.
+2024-04-26T14:35:25.059+05:30  INFO 14192 --- [demo] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-26T14:35:25.093+05:30  INFO 14192 --- [demo] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-26T14:35:25.094+05:30  INFO 14192 --- [demo] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-26T14:35:25.267+05:30  INFO 14192 --- [demo] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-26T14:35:25.268+05:30  INFO 14192 --- [demo] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3533 ms
+2024-04-26T14:35:25.450+05:30  INFO 14192 --- [demo] [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
